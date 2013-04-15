@@ -1,0 +1,4 @@
+joomsocial
+==========
+
+Traducciones Joomsocial
